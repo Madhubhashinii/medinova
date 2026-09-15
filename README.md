@@ -237,42 +237,15 @@ The application source code is transformed into separate server and static outpu
 ```
 
 
-# ✦ Deployment Evidence
-
-Screenshots documenting the AWS deployment can be found in:
-
-```text
-/screenshots/
-```
-
-Recommended evidence:
-
-```text
-screenshots/
-│
-├── aws-billing.png
-├── github-repository.png
-├── s3-bucket.png
-├── lambda-function.png
-├── lambda-url.png
-├── cloudfront-origins.png
-├── cloudfront-behaviors.png
-└── live-application.png
-```
-
----
+# ✦ 
 
 
 
+<img width="1722" height="702" alt="cl1" src="https://github.com/user-attachments/assets/c460db09-6f8a-43c8-b86f-ddb09411f162" />
 
 
 ---
 
-# ✦ Portfolio Summary
-
-> **MediNova is a serverless SSR healthcare web application built with React and TanStack Start and deployed on AWS using Lambda, Amazon S3, Lambda Function URLs, and Amazon CloudFront. The architecture separates static asset delivery from server-side rendering while using CloudFront as the public HTTPS and CDN layer.**
-
----
 
 <div align="center">
 
